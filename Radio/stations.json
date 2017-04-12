@@ -1,0 +1,13 @@
+{
+    "station":
+    [
+     {
+     "name": "CKUT 90.3 FM Montréal",
+     "streamURL": "http://stream.ckut.ca:8000/903fm-128-stereo",
+     "imageURL": "ckut_logo white clear",
+     "desc": "Montréal Community Radio!",
+     "longDesc": "CKUT is a non-profit, campus-community radio station based at McGill University.  CKUT provides alternative music, news and spoken word programming to the city of Montreal and surrounding areas, 24 hours a day, 365 days a year.  Hear us at 90.3 MHz on the FM dial, 91.7 by cable, or listen on-line.  CKUT is composed of over 200 volunteers working with a staff of coordinators, not just to make creative and insightful radio programming, but also to manage the station. The station operates on a collective management system that includes volunteers in decision-making."
+     }
+     
+     ]
+}
